@@ -19,14 +19,14 @@ a {
 
 
 header {
-    background-color: #1F2937;
+    background-color: #1b31f7ff;
     padding: 20px 100px;
 }
 
 nav {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: right;
 }
 
 nav ul {
